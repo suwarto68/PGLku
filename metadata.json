@@ -1,0 +1,6 @@
+{
+  "name": "Media Pembelajaran Persamaan Garis Lurus",
+  "description": "Media pembelajaran matematika interaktif kelas 7 Fase D tentang koordinat Cartesius, grafik linear, gradien lereng tangga, sistem ANBK 25 kuis numerasi, serta penugasan kustom berbasis kecerdasan buatan Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
